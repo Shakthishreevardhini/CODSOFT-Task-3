@@ -17,6 +17,7 @@ OVERVIEW: The objective of the Calculator program is to provide a simple and int
 OUTPUT:
 
 
-<img width="1073" alt="Screenshot 2024-12-31 131035" src="https://github.com/user-attachments/assets/c4efa975-cee1-485b-a760-3b3a1240ebd1" />
+<img width="1079" alt="Screenshot 2024-12-31 131308" src="https://github.com/user-attachments/assets/66030a44-7557-4752-a338-ed78a23de557" />
+
 
 
